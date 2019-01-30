@@ -1,15 +1,15 @@
 Usage
 =====
 
-####Install libraries
+#### Install libraries
 ```bash
 composer install
 ``` 
 
-####Database
+#### Database
 
 Update db config in `config/config.yml`. Source located in `db.sql`.
 
-####Web
+#### Web
 
 Root dir for nginx is `web`.
