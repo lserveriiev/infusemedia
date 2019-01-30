@@ -8,7 +8,7 @@ composer install
 
 #### Database
 
-Update db config in `config/config.yml`. Source located in `db.sql`.
+Update db config in `config/config.yml`. Import sourse from `db.sql`.
 
 #### Web
 
