@@ -1,0 +1,20 @@
+{
+  "name": "lenur/infusemedia",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "lenur",
+      "email": "lenur.serveriev@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "7.1",
+    "ext-PDO": "*",
+    "symfony/yaml": "^4.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
+}
